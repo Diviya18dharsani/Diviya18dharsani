@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Diviya18dharsani
-- 👀 I’m interested in java programming and SQL as it makes me feel active and motivated
-- 🌱 I’m currently pursuing BSc degree and is very keen in learning new things daily. 
+- 👀 I’m interested in SQL as it makes me feel active and motivated.
+- 🌱 I’m currently pursuing BSc degree and is very keen in learning new things daily.
+- I have created repository for python,java and C programming 
 
 
 <!---
